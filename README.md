@@ -28,7 +28,8 @@ Dunbar's Number suggests that our cognitive capacity places constraints on the s
 
 In the context of startups and organizations, Dunbar's Number is often cited to highlight the challenges of maintaining a cohesive culture and effective communication as a company grows beyond a certain size. When a company exceeds Dunbar's Number, it becomes more difficult for employees to know each other well, resulting in potential communication bottlenecks, decreased trust, and a greater reliance on formal structures and processes to manage interactions. Therefore, understanding Dunbar's Number can inform strategies for managing organizational growth, fostering relationships, and preserving a sense of community within larger teams.
 
-Creating a social media app based on Dunbar's Number algorithm could be a fascinating concept. Here are some potential features and concepts you could explore:
+## Dunbar's Number - Social Media
+Creating a social media app based on Dunbar's Number algorithm is fascinating concept. Here are some potential features and concepts I will explore:
 
 1. **Limited Connections:** Implement a limit on the number of connections a user can have, based on Dunbar's Number. Users could only add a certain number of friends or connections, encouraging them to prioritize relationships with those they truly care about.
 
