@@ -1,6 +1,4 @@
----
-title: # Dunbar's Number
----
+# Dunbar's Number
 
 Proposed by anthropologist [Robin Dunbar](https://en.wikipedia.org/wiki/Robin_Dunbar), Dunbar's Number is a theoretical cognitive limit to the number of people with whom an individual can maintain stable social relationships. This concept is based on the idea that there are limits to the human brain's capacity for social bonding and interaction.
 
