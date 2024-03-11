@@ -4,7 +4,7 @@ title: "Understanding Dunbar's Number"
 
 # Dunbar's Number
 
-Proposed by anthropologist Robin Dunbar, Dunbar's Number is a theoretical cognitive limit to the number of people with whom an individual can maintain stable social relationships. This concept is based on the idea that there are limits to the human brain's capacity for social bonding and interaction.
+Proposed by anthropologist [Robin Dunbar](https://en.wikipedia.org/wiki/Robin_Dunbar), Dunbar's Number is a theoretical cognitive limit to the number of people with whom an individual can maintain stable social relationships. This concept is based on the idea that there are limits to the human brain's capacity for social bonding and interaction.
 
 ## Specifically, Dunbar proposed different layers of social relationships based on group size:
 
@@ -29,6 +29,7 @@ Dunbar's Number suggests that our cognitive capacity places constraints on the s
 In the context of startups and organizations, Dunbar's Number is often cited to highlight the challenges of maintaining a cohesive culture and effective communication as a company grows beyond a certain size. When a company exceeds Dunbar's Number, it becomes more difficult for employees to know each other well, resulting in potential communication bottlenecks, decreased trust, and a greater reliance on formal structures and processes to manage interactions. Therefore, understanding Dunbar's Number can inform strategies for managing organizational growth, fostering relationships, and preserving a sense of community within larger teams.
 
 ## Dunbar's Number - Social Media
+
 Creating a social media app based on Dunbar's Number algorithm is fascinating concept. Here are some potential features and concepts I will explore:
 
 1. **Limited Connections:** Implement a limit on the number of connections a user can have, based on Dunbar's Number. Users could only add a certain number of friends or connections, encouraging them to prioritize relationships with those they truly care about.
@@ -52,4 +53,3 @@ Creating a social media app based on Dunbar's Number algorithm is fascinating co
 10. **Research and Education:** Use the app as a platform for educating users about Dunbar's Number and its implications for social networks and relationships. Provide resources, articles, and interactive content to help users understand the science behind the app's design principles.
 
 By incorporating these concepts into your social media app, you can create a unique and engaging platform that promotes meaningful connections, fosters community, and prioritizes quality over quantity in users' social interactions.
-
