@@ -30,7 +30,7 @@ In the context of startups and organizations, Dunbar's Number is often cited to 
 
 ## Dunbar's Number - Social Media
 
-Creating a social media app based on Dunbar's Number algorithm is fascinating concept. Here are some potential features and concepts I will explore:
+Creating a social media app based on Dunbar's Number algorithm is a fascinating concept. Here are some potential features and concepts I will explore:
 
 1. **Limited Connections:** Implement a limit on the number of connections a user can have, based on Dunbar's Number. Users could only add a certain number of friends or connections, encouraging them to prioritize relationships with those they truly care about.
 
@@ -52,4 +52,4 @@ Creating a social media app based on Dunbar's Number algorithm is fascinating co
 
 10. **Research and Education:** Use the app as a platform for educating users about Dunbar's Number and its implications for social networks and relationships. Provide resources, articles, and interactive content to help users understand the science behind the app's design principles.
 
-By incorporating these concepts into your social media app, you can create a unique and engaging platform that promotes meaningful connections, fosters community, and prioritizes quality over quantity in users' social interactions.
+By incorporating these concepts into a social media app, we will create a unique and engaging platform that promotes meaningful connections, fosters community, and prioritizes quality over quantity in users' social interactions.
